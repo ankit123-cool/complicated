@@ -1,0 +1,55 @@
+body{background-color: rgb(223, 219, 219);color: white;}
+div.a{background-color: white;height: 1500px;width: 900px; margin-top:40px;margin-left: 10px;position: absolute;border-top-left-radius:15px;border-top-right-radius: 15px;;}
+div.b{background-color: white;height: 1500px;width: 570px;border-bottom-right-radius: 15px;border-bottom-left-radius: 15px;margin-left: 940px;position: absolute;margin-top: 0px;}
+button.q{background-color: white;color: black;border: none;padding: 5px;}
+div.c{margin-left: 200px;position: absolute;}
+div.d{position: absolute;background-color:	 #ffb366;height: 75px;width: 75px;border-radius:50% ;}
+div.e{position: absolute;color:black;margin-left: 550px;background-color: rgb(43, 39, 39);border-bottom-right-radius: 20px;}
+div.f{color:black;margin-top: 150px;margin-left: 100px; }
+h3{font-style: oblique;color:	 #ffb366;}
+h5{font-weight: bold;color: black;}
+button.o{padding:10px;background-color:green;border:none;color:white;border-radius:5px ;}
+div.x{position: absolute;height: 75px;width: 150px;border-radius:80% ;background-color: green;margin-left:20px;}
+div.m{position: absolute;background-color: white;padding: 20px;margin-left: 90px;margin-top: 120px;box-shadow: 10px 10px 5px grey;}
+div.n{position: absolute;background-color: white;padding: 20px;margin-left: 360px;margin-top: 120px;box-shadow: 10px 10px 5px grey;}
+div.p{position: absolute;background-color: white;padding: 20px;margin-left: 620px;margin-top: 120px;box-shadow: 10px 10px 5px grey;}
+h4{color: black;}
+div.asd{background-color:	 #ffb366;height: 20px;width: 35px;border-radius:50% ;}
+div.ald{background-color:	 #ffb366;height: 20px;width: 35px;border-radius:50% ;}
+div.apd{background-color:	 #ffb366;height: 20px;width: 35px;border-radius:50% ;}
+p.t{font-size: small;color: black;}
+h4{color:	 #ffb366;}
+h2{color:black;}
+div.we{margin-top: 300px;margin-left: 150px;}
+h4{font-style: oblique;}
+div.lst{background-color:rgb(201, 198, 198);margin-left: 400px;padding-left: 100px;padding-bottom: 30px;position: absolute;padding-right: 40px;}
+div.qws{position: absolute;margin-right: 200px; background-color: rgb(110, 108, 108);margin-top: 30px;border-bottom-right-radius: 30px;}
+div.acsd{background-color: red;height: 50px;width: 50px;margin-left: 400px;border-bottom-right-radius: 30px;}
+div.ty{background-color:	 #ffb366;height: 70px;width: 100px;border-radius:50% ;position: absolute;margin-left: 300px;}
+div.toy{background-color:	 green;height: 70px;width: 100px;border-radius:50% ;margin-left: 360px;position: absolute;}
+div.m2{position: absolute;background-color: white;padding: 2px;margin-left: 30px;margin-top: 12px;box-shadow: 10px 10px 5px grey;}
+div.n2{position: absolute;background-color: white;padding: 2px;margin-left: 220px;margin-top: 12px;box-shadow: 10px 10px 5px grey;}
+div.p2{position: absolute;background-color: white;padding: 2px;margin-left: 400px;margin-top: 12px;box-shadow: 10px 10px 5px grey;}
+div.asd2{background-color:	 #ffb366;height: 20px;width: 35px;border-radius:50% ;}
+div.ald2{background-color:	 #ffb366;height: 20px;width: 35px;border-radius:50% ;}
+div.apd2{background-color:	 #ffb366;height: 20px;width: 35px;border-radius:50% ;}
+p.u{font-size: xx-small;color: black;}
+div.we2{margin-top: 150px;margin-left: 50px;}
+p.qw{font-style: oblique;color:	 #ffb366;}
+p.qwe{color: black;font-weight: bold;}
+p.xc{color:black;font-size:5px;}
+p.mn{font-size: 12px;color:#ffb366; ;}
+p.ml{font-size: 10px;color: black;}
+div.lst2{background-color:rgb(201, 198, 198);margin-left: 250px;padding-left: 50px;padding-bottom: 10px;position: absolute;padding-right: 10px;}
+div.qws2{position: absolute;margin-right: 200px; background-color: rgb(110, 108, 108);margin-top: 30px;border-bottom-right-radius: 30px;}
+div.acsd2{background-color: red;height: 20px;width: 20px;margin-left: 255px;border-bottom-right-radius: 30px;}
+button.o2{padding:5px;background-color:green;border:none;color:white;border-radius:5px ;font-size: 10px;}
+div.fg{margin-top: 250px;}
+div.ew{margin-left: 100px;}
+div.nbv{background-color: rgb(175, 172, 172);height: 200px;width: 570px;}
+p.xz{color: black;font-size: 6px;margin-left: 20px;}
+button.k{background-color: rgb(175, 172, 172);border-style: solid; border-color: green;margin-left: 400px;padding: 5px;font-size: xx-small;}
+div.bv{background-color: rgb(228, 178, 15);height: 50px;width: 75px;border-bottom-left-radius: 20px;}
+p.lk{margin-left: 100px;color: cornflowerblue;font-size: 15px;margin-bottom: 50px;}
+div.gh{position: absolute;height: 150px;width: 200px;border-bottom-left-radius: 50px;background-color: darkgoldenrod;margin-left: 100px;border-top-right-radius: 50px;}
+div.ghd{position: absolute;height: 150px;width: 200px;border-bottom-left-radius: 50px;background-color: darkgreen;margin-left: 300px;border-top-right-radius: 50px;}
